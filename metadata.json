@@ -1,0 +1,6 @@
+{
+  "name": "Maktaba - School Database System",
+  "description": "Digital school database system for managing students, teachers, classes, and fee collections with printable receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
